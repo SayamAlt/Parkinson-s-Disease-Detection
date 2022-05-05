@@ -7,7 +7,7 @@
 
 ## Deployed Web Application
 
-Link: ![Parkinson's Disease Detection](https://parkinson-disease-detection-sk.herokuapp.com/)
+Link: [Parkinson's Disease Prediction](https://parkinson-disease-detection-sk.herokuapp.com/)
 
 ## Parkinson's Disease Data Set Description
 
