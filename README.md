@@ -10,8 +10,6 @@ Link: ![Parkinson's Disease Detection](https://parkinson-disease-detection-sk.he
 
 ## Parkinson's Disease Data Set Description
 
------------------------------------------------------	
-
 <table>
   <tr>
     <th><b>Data Set Characteristics</b></th>
@@ -46,8 +44,6 @@ Link: ![Parkinson's Disease Detection](https://parkinson-disease-detection-sk.he
     <td>N/A</td>
   </tr>
 </table>
-
------------------------------------------------------
 
 ## Attribute Information:
 
@@ -141,8 +137,6 @@ Link: ![Parkinson's Disease Detection](https://parkinson-disease-detection-sk.he
     <td>Non-linear measure of fundamental frequency variation</td>
   </tr>
 </table>
-
------------------------------------------------------
 
 ## Performance Summary of Machine Learning Models Used
 
