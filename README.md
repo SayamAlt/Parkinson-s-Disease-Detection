@@ -2,6 +2,7 @@
 
 <p>We have started using data science to improve healthcare and services – if we can predict a disease early, it has many advantages on the prognosis. So in this data science project idea, we will learn to detect Parkinson’s Disease with Python. This is a neurodegenerative, progressive disorder of the central nervous system that affects movement and causes tremors and stiffness. This affects dopamine-producing neurons in the brain and every year, it affects more than 1 million individuals in India.</p>
 
+![Symptoms of Parkinson's Disease](https://media.istockphoto.com/vectors/parkinsons-disease-symptoms-vector-id881702426)
 ![Parkinson's Disease Detection](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/10/Python-machine-learning-project-.png)
 
 ## Deployed Web Application
