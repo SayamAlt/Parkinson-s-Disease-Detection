@@ -45,9 +45,9 @@ Link: ![Parkinson's Disease Detection](https://parkinson-disease-detection-sk.he
   </tr>
 </table>
 
-## Attribute Information:
+<h1>Attribute Information</h1>
 
-<h1>Matrix column entries (attributes)</h1>
+## Matrix column entries (attributes)
 <table>
   <tr>
     <th><b>Attribute</b></th>
